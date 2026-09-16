@@ -1,0 +1,4 @@
+{
+  "source": "SYSMON",
+  "rawLog": "mock sysmon payload"
+}
