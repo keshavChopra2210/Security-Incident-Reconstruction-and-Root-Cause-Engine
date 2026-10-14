@@ -43,3 +43,5 @@ DARPA_TC/
 __pycache__/
 *.pyc
 .venv/
+*.csv
+*.zip

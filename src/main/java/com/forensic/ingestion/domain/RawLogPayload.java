@@ -10,6 +10,6 @@ public class RawLogPayload {
     private String rawLog;
 
     public enum LogSource {
-        SYSMON, AUDITD, THEIA
+        SYSMON, AUDITD, THEIA, UNSW_NB15
     }
 }
